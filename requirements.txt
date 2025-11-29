@@ -1,0 +1,7 @@
+streamlit
+pillow
+sentence-transformers
+chromadb==1.3.5
+pytesseract
+numpy
+requests
