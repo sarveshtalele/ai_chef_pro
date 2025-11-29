@@ -3,8 +3,10 @@
 
 AI Chef Pro is a local-first, privacy-focused Generative AI application that helps you turn everyday ingredients into chef-quality recipes. It combines Computer Vision, RAG (Retrieval-Augmented Generation), and local LLM inference to reduce food waste and inspire smarter home cooking.
 
-🔗 **Live Demo on Hugging Face Spaces:**  
-[AI Chef Pro – Hugging Face Space](https://huggingface.co/spaces/USERNAME/AI-chef-pro)  
+🔗 **Live Demo:**  
+
+[Watch on YouTube](https://www.youtube.com/watch?v=RlrUmQEKPLs)
+
 
 
  
