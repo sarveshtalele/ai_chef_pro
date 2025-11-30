@@ -31,7 +31,7 @@ AI Chef Pro is a local-first, privacy-focused Generative AI application that hel
 ---
 
 *   **Frontend:** Streamlit
-*   **LLM Inference:** llama-cpp-python (GGUF)
+*   **LLM Inference:** microsoft/Phi-3-mini-4k-instruct-gguf (GGUF)
 *   **Vector Store:** ChromaDB
 *   **Embeddings:** all-MiniLM-L6-v2
 *   **Vision:** CLIP + Tesseract OCR
